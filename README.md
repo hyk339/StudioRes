@@ -31,20 +31,20 @@
 * 연습실 조회(지하철 역별, 지역별)  
 * 연습실 예약
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82932127/125186867-aaccf600-e267-11eb-8723-7919be9d96cc.jpg" width="800em" height="500em">
+  <img src="https://user-images.githubusercontent.com/82932127/125186867-aaccf600-e267-11eb-8723-7919be9d96cc.jpg" width="800em" height="600em">
 </p>
 <p align="center">
 <b><메인페이지></b>  
 </p>
  
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82932127/125187805-63953400-e26c-11eb-9f4a-1283cc281c31.png" width="800px" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/82932127/125187805-63953400-e26c-11eb-9f4a-1283cc281c31.png" width="800em" height="400em"/>
 </p>
 <p align="center">
 <b><지하철 역이름으로 검색></b> 
 </p>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/82932127/125187808-6c860580-e26c-11eb-998b-95b69f75ba65.png" width="800px" height="400px"/>
+  <img src="https://user-images.githubusercontent.com/82932127/125187808-6c860580-e26c-11eb-998b-95b69f75ba65.png" width="800em" height="400em"/>
 </p>
 <p align="center">
 <b><지역 이름으로 검색></b> 
